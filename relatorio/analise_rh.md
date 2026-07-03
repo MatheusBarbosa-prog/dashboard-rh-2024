@@ -17,7 +17,7 @@ Período analisado: 2024.
 
 ### Headcount por departamento:
 
-| Departamento | Funcionários |
+| Departamento | Headcount |
 |--------------|-------------|
 | Comercial | 6 |
 | TI | 6 |
@@ -80,7 +80,7 @@ Distribuição uniforme — nenhum departamento concentra as saídas.
 
 ## 💡 Recomendações
 
-1. **Investigar causas do turnover voluntário** - 2 pedidos de demissão sugerem possível insatisfação; entrevistas de desligamento podem revelar padrões
+1. **Investigar causas do turnover voluntário** - 2 pedidos de desligamento sugerem possível insatisfação; entrevistas de desligamento podem revelar padrões
 2. **Revisar política de reajuste** - média de 8,2% acima da inflação é positivo, mas concentrado em poucos funcionários
 3. **Atenção ao custo de TI** - departamento mais caro; avaliar se o retorno justifica o investimento
 4. **Plano de sucessão** - com 6,5 anos de média de casa, há risco de perda de conhecimento em saídas futuras
